@@ -1,0 +1,12 @@
+.logo-inicial-carreras{
+    width: 70vw;
+    height: 50vh;
+}
+
+@media screen and (max-width: 700px){
+    .logo-inicial-carreras{
+        width: 100vw;
+        height: 40vh;
+    }
+}
+ 

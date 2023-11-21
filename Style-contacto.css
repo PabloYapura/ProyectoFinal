@@ -1,0 +1,20 @@
+
+.lista-intereses{
+    text-align: center;
+    vertical-align: middle;
+  justify-content: center;
+    width: 500px;
+    vertical-align: middle;
+}
+.form-contacto{
+    width: 100%; /* Asegura que el formulario ocupe el ancho completo */
+    max-width: 800px; /* Establece un ancho máximo para el formulario */
+    border: 4px solid black;
+    background-color: lightgray;
+    margin: auto;
+    padding: auto;   
+    margin-top: 20px;
+}
+.form-label{
+    width: 200px;
+}
